@@ -1,5 +1,5 @@
 <?php
-$html = file_get_contents('http://pokemondb.net/evolution'); //get the html returned from the following url
+$html = file_get_contents('https://easycv7.000webhostapp.com'); //get the html returned from the following url
 
 $pokemon_doc = new DOMDocument();
 
